@@ -1,6 +1,6 @@
 # MERN_Shopping_List
 
-A basic shopping list application based on MERN stack. 
+A basic shopping list application based on MERN stack. [Demo](https://shielded-scrubland-82446.herokuapp.com/)
 
 ## Description
 The project uses express node as the backend and React as frontend. MongoDB Atlas is used as the Database. I have also used Redux to manage state.
